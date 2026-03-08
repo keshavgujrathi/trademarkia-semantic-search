@@ -2,6 +2,8 @@
 
 A semantic search and caching system built on the UCI 20 Newsgroups dataset. The system uses fuzzy clustering with Gaussian Mixture Models to group documents by semantic similarity, maintains a cluster-partitioned semantic cache for query acceleration, and exposes a FastAPI service for real-time search with cache statistics.
 
+**Live Demo:** https://keshav-semantic-search.streamlit.app
+
 ## Setup
 
 ```bash
@@ -10,7 +12,7 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
-Place the UCI 20 Newsgroups download at `data/raw/20_newsgroups/` so that subdirectories like `data/raw/20_newsgroups/sci.space/` exist.
+Place the UCI 20 Newsgroups download at `data/raw` so that subdirectories like `data/raw/sci.space/` exist.
 
 ## Building the Index
 
