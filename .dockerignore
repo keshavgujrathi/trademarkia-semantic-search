@@ -1,0 +1,10 @@
+data/
+analysis/
+outputs/
+__pycache__/
+.git/
+venv/
+*.pyc
+*.pyo
+.env
+build_index.py
