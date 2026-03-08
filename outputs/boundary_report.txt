@@ -1,0 +1,165 @@
+---
+Document: 60221 | Category: sci.space
+Text: In article <1993Apr6.125608.7506@mksol.dseg.ti.com> mccall@mksol.dseg.ti.com (fred j mccall 575-3539) writes: How is it ever going to be an Off- the Shelf Technology if someone doesn't do it? Maybe we should do this as part of the SSF design goals. ;-) Gee fred. After your bitter defense of 20 KHz p
+
+Cluster tension: Cluster 12 (0.328) 
+                 vs Cluster 6 (0.203)
+
+Top terms in Cluster 12: edu, writes, com, article, software
+Top terms in Cluster 6: government, edu, com, people, writes
+---
+
+---
+Document: 102754 | Category: rec.autos
+Text: In article <C5FqFy.Fpq@usenet.ucs.indiana.edu>, mliggett@silver.ucs.indiana.edu (matthew liggett) writes: I don't know about trains, but I've saw a sign on the back of a Greyhound bus that warns you that your radar detector may be set off. It doesn't explain why, but it does set off my radar detecto
+
+Cluster tension: Cluster 0 (0.305) 
+                 vs Cluster 28 (0.235)
+
+Top terms in Cluster 0: com, edu, writes, mail, article
+Top terms in Cluster 28: edu, com, writes, article, battery
+---
+
+---
+Document: 105118 | Category: rec.motorcycles
+Text: bgardner@pebbles.es.com (Blaine Gardner) writes: Marten) writes: Me too. Even after I bought the 3-piece Krauser K2 set. Now and then, DK puts them on sale for 50 bux or so to clear out inventory, but they never seem to to go away. They are the Volkswagens of tank bags, I guess. BTW, the late Paul O
+
+Cluster tension: Cluster 1 (0.245) 
+                 vs Cluster 27 (0.240)
+
+Top terms in Cluster 1: edu, writes, com, article, people
+Top terms in Cluster 27: miles, new, sale, condition, mail
+---
+
+---
+Document: 105064 | Category: rec.motorcycles
+Text: In article <1993Apr19.013752.22843@research.nj.nec.com>, behanna@syl.nj.nec.com (Chris BeHanna) writes: I thought I posted this last year. The women came to court with three witnesses; the two women that were in the car and one neighbor that heard me shouting. My lawyer didn't like the odds since th
+
+Cluster tension: Cluster 9 (0.328) 
+                 vs Cluster 1 (0.275)
+
+Top terms in Cluster 9: edu, com, writes, article, don
+Top terms in Cluster 1: edu, writes, com, article, people
+---
+
+---
+Document: 84239 | Category: talk.religion.misc
+Text: In <1ren9a$94q@morrow.stanford.edu> salem@pangea.Stanford.EDU (Bruce Salem) writes: Cobb) writes: This brings up another something I have never understood. I asked this once before and got a few interesting responses, but somehow didn't seem satisfied. Why would the NT NOT be considered a good sourc
+
+Cluster tension: Cluster 9 (0.395) 
+                 vs Cluster 24 (0.173)
+
+Top terms in Cluster 9: edu, com, writes, article, don
+Top terms in Cluster 24: god, jesus, bible, church, christ
+---
+
+---
+Document: 50513 | Category: comp.sys.mac.hardware
+Text: In article <summeral.733798199@rintintin.Colorado.EDU> summeral@rintintin.Colorado.EDU (Summerall Thomas G) writes: I can't even hear the fan on my 650.....gee I wonder if its working.....yup, just checked, its exhausting air out the back just fine. Gary Gary Snow uunet!clark!gsnow or gsnow@clark.ed
+
+Cluster tension: Cluster 29 (0.283) 
+                 vs Cluster 9 (0.203)
+
+Top terms in Cluster 29: bike, dod, com, ride, writes
+Top terms in Cluster 9: edu, com, writes, article, don
+---
+
+---
+Document: 84278 | Category: talk.religion.misc
+Text: In the hands of a defender, a .357 _is_ a miracle from God. He helps those who help themselves. Or haven't you ever heard that one before? ------------ John W. Redelfs, cj195@cleveland.freenet.edu ------------- --------- All my opinions are tentative pending further data. ---------
+
+Cluster tension: Cluster 24 (0.389) 
+                 vs Cluster 23 (0.223)
+
+Top terms in Cluster 24: god, jesus, bible, church, christ
+Top terms in Cluster 23: god, religion, edu, people, christian
+---
+
+---
+Document: 54192 | Category: rec.sport.hockey
+Text: Oh, excuse me for wasting the bandwidth, but I was referring to the original incident, not the recent skirmish which occurred this past month. Tom Huot huot@cray.com
+
+Cluster tension: Cluster 1 (0.327) 
+                 vs Cluster 0 (0.225)
+
+Top terms in Cluster 1: edu, writes, com, article, people
+Top terms in Cluster 0: com, edu, writes, mail, article
+---
+
+---
+Document: 55041 | Category: talk.politics.guns
+Text: In article <C5uIHo.8LK@chinet.chi.il.us> dhartung@chinet.chi.il.us (Dan Hartung) writes: :gt6511a@prism.gatech.EDU (COCHRANE,JAMES SHAPLEIGH) writes: :>On the subject of CS/CN/tear gas: when I received my initial introduction to :You couldn't find a window after six hours? : Daniel A. Hartung -- dha
+
+Cluster tension: Cluster 1 (0.360) 
+                 vs Cluster 20 (0.234)
+
+Top terms in Cluster 1: edu, writes, com, article, people
+Top terms in Cluster 20: edu, com, doctor, msg, article
+---
+
+---
+Document: 104638 | Category: rec.motorcycles
+Text: In article <wrs.4180@wslack.UUCP>, wrs@wslack.UUCP (Bill Slack) wrote: The statement above is _true_ to the spirit of the list because it is a false statement. Misinformation: that's the spirit, Bill. My /5 will do wheelies because it's a chain drive model. John Stafford Minnesota State University @
+
+Cluster tension: Cluster 29 (0.274) 
+                 vs Cluster 17 (0.229)
+
+Top terms in Cluster 29: bike, dod, com, ride, writes
+Top terms in Cluster 17: car, cars, engine, com, edu
+---
+
+---
+Document: 51975 | Category: comp.sys.mac.hardware
+Text: Hi, Could some kind soul please e-mail me a copy of the pinout for the serial connector on an ImageWriter II printer? We have one that we'd like to hook up to a PC, and it seems that nobody sells the proper cables anymore. No problem -- I can make one, but I need to know the pinout first. Thanks in 
+
+Cluster tension: Cluster 12 (0.391) 
+                 vs Cluster 0 (0.244)
+
+Top terms in Cluster 12: edu, writes, com, article, software
+Top terms in Cluster 0: com, edu, writes, mail, article
+---
+
+---
+Document: 38773 | Category: comp.graphics
+Text: Does anybody know about a converter from CGM to PCX or anything else more common. I've spent some time searching the archives with no luck. Could you email me your responses. Thx in advance, Mike G. d0np@jupiter.sun.csd.unb.ca
+
+Cluster tension: Cluster 13 (0.352) 
+                 vs Cluster 8 (0.297)
+
+Top terms in Cluster 13: edu, com, use, radio, sound
+Top terms in Cluster 8: card, monitor, video, drivers, vga
+---
+
+---
+Document: 105210 | Category: rec.motorcycles
+Text: In article <1993Apr24.215126.19802@dsd.es.com>, bgardner@pebbles.es.com (Blaine Gardner) writes: Did they ever put in any gas stations on US 12? I rode through there in 1987, skipped a fillup at Bryce Canyon and rode 100+ miles before seeing a gas station at Torrey. Awesome road, I recall riding up 
+
+Cluster tension: Cluster 27 (0.327) 
+                 vs Cluster 29 (0.227)
+
+Top terms in Cluster 27: miles, new, sale, condition, mail
+Top terms in Cluster 29: bike, dod, com, ride, writes
+---
+
+---
+Document: 54650 | Category: talk.politics.guns
+Text: In article <1993Apr20.163730.16128@guinness.idbsu.edu>, betz@gozer.idbsu.edu (Andrew Betz) writes: As I understand it was considered unsafe for the tv networks to get any closer. Surely the networks can judge the risks of reporting for themselves. I haven't noticed CNN being banned from Baghdad hote
+
+Cluster tension: Cluster 1 (0.496) 
+                 vs Cluster 3 (0.120)
+
+Top terms in Cluster 1: edu, writes, com, article, people
+Top terms in Cluster 3: space, nasa, edu, gov, henry
+---
+
+---
+Document: 60777 | Category: sci.space
+Text: In article <Cohen-150493082611@q5022531.mdc.com> Andy Cohen, Cohen@ssdgwy.mdc.com writes: Thanks again Andy. The image is in pub/delta-clipper now. The name has been changed to "dcx-artists-concept.gif" in the spirit of verboseness. :-) ----Chris Chris W. Johnson Internet: chrisj@emx.cc.utexas.edu U
+
+Cluster tension: Cluster 3 (0.328) 
+                 vs Cluster 12 (0.201)
+
+Top terms in Cluster 3: space, nasa, edu, gov, henry
+Top terms in Cluster 12: edu, writes, com, article, software
+---
+
