@@ -2,7 +2,7 @@
 
 A semantic search and caching system built on the UCI 20 Newsgroups dataset. The system uses fuzzy clustering with Gaussian Mixture Models to group documents by semantic similarity, maintains a cluster-partitioned semantic cache for query acceleration, and exposes a FastAPI service for real-time search with cache statistics.
 
-**Live Demo:** https://keshav-semantic-search.streamlit.app
+**Live Demo:** https://semantic-search-keshav.streamlit.app
 
 ## Setup
 
