@@ -35,7 +35,7 @@ tab1, tab2 = st.tabs(["🔍 Search Engine", "📊 Cluster Analysis"])
 
 # TAB 1: Search
 with tab1:
-    st.title("Trademarkia Semantic Search")
+    st.title("Semantic Search Engine")
     st.write("An $O(N/K)$ cluster-routed search engine with a vectorized semantic cache.")
     
     query = st.text_input("Enter a query (Press Enter to search):", placeholder="e.g., NASA space shuttle missions")
