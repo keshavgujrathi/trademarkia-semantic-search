@@ -5,7 +5,7 @@ from src.embeddings import embed_query, load_index, search
 from src.clustering import load_clustering
 from src.cache import SemanticCache
 
-st.set_page_config(page_title="Trademarkia Semantic Search", layout="wide")
+st.set_page_config(page_title="Semantic Search Engine", layout="wide")
 
 # Load resources
 @st.cache_resource
